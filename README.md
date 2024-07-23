@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# resume-html-css
-=======
 # My_Portfolio
 
 
