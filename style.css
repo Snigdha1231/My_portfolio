@@ -359,6 +359,7 @@ body {
 
     .nav.show {
         display: block;
+
     }
     .nav ul.show {
         display: flex; /* Show menu when toggled */
